@@ -1,8 +1,13 @@
-## Hello! 👋🏽
+### Jake Bradbeer
 
-<a href="https://github.com/sc00oby"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="160" /></a>
+Hi, I'm Jake, a Vancouver-based Software Engineer and active contributor in the open-source community. I am comfortable working across the stack and have a passion for solving problems and building things.
 
-My name is Jake, I am a Vancouver-based Software Engineer and active contributor in the open-source community. I am comfortable working across the stack and have a passion for solving problems and building things. Currently, I am working with TypeScript, React, Electron and PostgreSQL @ SeeQR, a developer tool to modify and test the performance of PostgreSQL databases.
+## What I'm up to
+
+Currently, I am working with TypeScript, React, Electron and PostgreSQL @ SeeQR, a developer tool to modify and test the performance of PostgreSQL databases. 
+
+I also am a freelance web developer for <code><a href='bpiconsultants.ca'>bpiconsultants.ca</a></code>.
+
 
 ## Languages and Tools:
 
