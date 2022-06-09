@@ -4,8 +4,8 @@ Hi, I'm Jake, a Vancouver-based Software Engineer and active contributor in the 
 
 ## What I'm Up To:
 
-- Software Engineer @ <code><a href='www.seeqr.info'>SeeQR</a></code>.
-- Freelance Web Developer @ <code><a href='bpiconsultants.ca'>BPI Consultants</a></code>.
+- Software Engineer @ <code><a href='https://www.seeqr.info' target="_blank">SeeQR</a></code>.
+- Freelance Web Developer @ <code><a href='https://bpiconsultants.ca' target="_blank">BPI Consultants</a></code>.
 
 
 ## Languages and Tools:
